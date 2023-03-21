@@ -26,9 +26,9 @@
 
 <br/>
 
-<h3>
-    📄 <a href="https://react-native.rocketseat.dev/" target="_blank">Guia passo a passo para preparar seu ambiente para rodar suas aplicações feitas em React Native</a>
-</h3>
+<p>
+    <a href="https://react-native.rocketseat.dev/" target="_blank">📄 Guia passo a passo para preparar seu ambiente para rodar suas aplicações feitas em React Native</a>
+</p>
 
 <br>
 
