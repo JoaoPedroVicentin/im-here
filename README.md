@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-    <img src="assets\im-here-gravacao.gif" width="80%" />
+    <img src="https://raw.githubusercontent.com/JoaoPedroVicentin/im-here/main/assets/im-here-gravacao.gif" width="80%" />
     <h3 align="center">O projeto consiste em uma simples aplicação para adicionar os nomes de pessoas presentes em uma sprint ou reunião.</h3>
 </div>
 
